@@ -33,7 +33,7 @@ Here's how to format the file:
         "One Thing That Works",
         "Another Thing That Works"
     ],
-    Unknown: [
+    "Unknown": [
        "One thing you are unsure about"
     ],
     "Warns": [

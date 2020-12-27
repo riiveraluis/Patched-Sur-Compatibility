@@ -1,0 +1,8 @@
+[
+    {
+        "Title": "FileVault is Enabled",
+        "Description": "FileVault prevents use of recovery mode, resulting in a always incorrect password when trying to unlock recovery. You must disable FileVault before continuing.",
+        "Type": "Fatal",
+        "Check": "terminal;fdesetup status;equals;FileVault is On.",
+    }
+]

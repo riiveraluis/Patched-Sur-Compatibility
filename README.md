@@ -4,6 +4,8 @@ Patched Sur will soon show a screen that explains the compatibility of each Mac.
 
 ## How can I contribute?
 
+### Nobody has submitted my model before
+
 **If you are unfamiliar with GitHub**, [just open a discussion](https://github.com/BenSova/Patched-Sur-Compatibility/discussions/new?category=compatibility-report) and fill it with the following information:
 
 - What Mac you have, this should come in two forms:
@@ -44,6 +46,10 @@ Here's how to format the file:
 ```
 
 MacName can be found in the stock About This Mac screen. Works and Warn items can be found below. Please include in your pull request a screenshot of the About This Mac screen in Patched Sur.
+
+### Somebody submitted my model before
+
+If somebody already submitted your model, a good thing to do is just to verify the results. Test as many things as you can, and if there are any unknowns try to test those too! Make sure to also comment on the discussion talking about your results and if they are the same just say you approve of the results and I'll add you to the list of approvers (the count of approvers appears on the Patched Sur page).
 
 ## Works and Warns
 

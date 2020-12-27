@@ -4,7 +4,7 @@ Patched Sur will soon show a screen that explains the compatibility of each Mac.
 
 ## How can I contribute?
 
-**If you are unfamiliar with GitHub**, [just open a discussion](https://github.com/BenSova/Patched-Sur-Compatibility/discussions/new?category=compatibility%20report) and fill it with the following information:
+**If you are unfamiliar with GitHub**, [just open a discussion](https://github.com/BenSova/Patched-Sur-Compatibility/discussions/new?category=compatibility-report) and fill it with the following information:
 
 - What Mac you have, this should come in two forms:
   - Mac Type (screen-size, Part-Year)

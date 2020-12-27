@@ -1,0 +1,18 @@
+{
+    "MacName": "iMac (21.5-inch, Late 2013)",
+    "Author": "@MarkVDW",
+    "Details": "Performance is great if you have an SSD upgrade (but can't comment on HDD). Everything seems to work out of the box, 
+    no need to patch any kexts in the post install app. Trying to run the kext patching step will give errors - just skip the step.
+    Continuity works completely. Did not test FileVault or WPA2 Enterprise.",
+    "Works": [
+        "WiFi, Ethernet and Bluetooth",
+        "I/O Ports",
+        "Graphics Acceleration",
+        "Sleep and Brightness",
+        "Personal Hotspots"
+    ],
+    "Warns": [
+        "FileVault",
+        "WPA2 Enterprise"
+    ]
+}

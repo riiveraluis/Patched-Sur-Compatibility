@@ -1,18 +1,13 @@
 {
     "MacName": "MacBook Pro (13-inch, Mid 2009)",
     "Author": "@mark-vdw",
-    "Details": "No graphics acceleration. System will be unusable. Mojave and Catalina work fine.",
-    "Works": [
-        "I/O Ports",
-        "Sleep and Brightness",
-    ],
+    "Details": "There would be no graphics acceleration. System will be barely unusable. Mojave or Catalina would work fine. Beyond graphics acceleration though we are unsure about other features since not many people have tested this model, but you really should not be installing macOS since we know that it will be extremely slow.",
+    "Works": [],
     "Unknown": [
+        "This Mac has not been reported yet."
     ],
     "Warns": [
         "Graphics Acceleration",
-        "WiFi, Ethernet and Bluetooth",
-        "Personal Hotspots"
-        "WPA2 Enterprise"
         "FileVault"
     ]
 }

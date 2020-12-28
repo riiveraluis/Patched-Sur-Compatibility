@@ -1,0 +1,18 @@
+{
+    "MacName": "MacBook Pro (13-inch, Mid 2009)",
+    "Author": "@mark-vdw",
+    "Details": "No graphics acceleration. System will be unusable. Mojave and Catalina work fine.",
+    "Works": [
+        "I/O Ports",
+        "Sleep and Brightness",
+    ],
+    "Unknown": [
+    ],
+    "Warns": [
+        "Graphics Acceleration",
+        "WiFi, Ethernet and Bluetooth",
+        "Personal Hotspots"
+        "WPA2 Enterprise"
+        "FileVault"
+    ]
+}

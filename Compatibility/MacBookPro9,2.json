@@ -1,6 +1,7 @@
 {
     "MacName": "MacBook Pro (13-inch, Mid 2012)",
     "Author": "@BenSova",
+    "Approves": [],
     "Details": "Performance is great, everything but WiFi works out of the box, but Patched Sur can fix WiFi by running Patch Kexts in the post install app. Continuity seems to work completely after patching (AirDrop, Continuity Clipboard, and Handoff were tested).",
     "Works": [
         "WiFi, Ethernet and Bluetooth",

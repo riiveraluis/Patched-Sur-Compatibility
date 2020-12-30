@@ -1,0 +1,19 @@
+
+{
+    "MacName": "MacBook Pro (13-inch, Early 2011)",
+    "Author": "@BenSova",
+    "Approved": [],
+    "Details": "Performance is sub-par, as there is no graphics acceleration, but Patched Sur can fix WiFi by running Patch Kexts in the post install app. Continuity seems to completely work after patching (AirDrop, Continuity Clipboard, and Handoff were tested).",
+    "Works": [
+        "WiFi, Ethernet and Bluetooth",
+        "I/O Ports",
+        "Sleep and Brightness"
+    ],
+    "Unknown": [],
+    "Warns": [
+        "Graphics Acceleration",
+        "FileVault",
+        "Personal Hotspots",
+        "WPA2 Enterprise"
+    ]
+}

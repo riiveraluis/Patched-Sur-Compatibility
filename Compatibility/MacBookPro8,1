@@ -1,7 +1,7 @@
 
 {
     "MacName": "MacBook Pro (13-inch, Early 2011)",
-    "Author": "@MacHacJac",
+    "Author": "@Mac-Hac-Jac",
     "Approved": ["@BenSova"],
     "Details": "Performance is not good, as there is no graphics acceleration and WiFi and sleep don't work right away, however Patched Sur can fix those by going into the Patch Kexts in the post install app. Other than the fact it is really slow most things seem to work.",
     "Works": [

@@ -1,9 +1,9 @@
 
 {
     "MacName": "MacBook Pro (13-inch, Early 2011)",
-    "Author": "@BenSova",
-    "Approved": [],
-    "Details": "Performance is sub-par, as there is no graphics acceleration, but Patched Sur can fix WiFi by running Patch Kexts in the post install app. Continuity seems to completely work after patching (AirDrop, Continuity Clipboard, and Handoff were tested).",
+    "Author": "@MacHacJac",
+    "Approved": ["@BenSova"],
+    "Details": "Performance is not good, as there is no graphics acceleration and WiFi and sleep don't work right away, however Patched Sur can fix those by going into the Patch Kexts in the post install app. Other than the fact it is really slow most things seem to work.",
     "Works": [
         "WiFi, Ethernet and Bluetooth",
         "I/O Ports",

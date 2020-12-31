@@ -1,0 +1,18 @@
+{
+    "MacName": "MacBook Pro (13-inch, Mid 2012)",
+    "Author": "u/RidiquL",
+    "Approved": ["@BenSova"],
+    "Details": "Performance is excellent, arguably better than Catalina. There don't appear to be any issues that should have you even thinking about downgrading to Catalina. WiFi is execlent, just WPA2 Enterprise and Personal Hotspots do not work. Other than that though, it runs great!",
+    "Works": [
+        "WiFi, Ethernet and Bluetooth",
+        "I/O Ports",
+        "Graphics Acceleration",
+        "Sleep and Brightness"
+    ],
+    "Unknown": [],
+    "Warns": [
+        "FileVault",
+        "Personal Hotspots",
+        "WPA2 Enterprise"
+    ]
+}

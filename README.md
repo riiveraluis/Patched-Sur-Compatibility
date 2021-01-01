@@ -58,7 +58,7 @@ Here are details that you can include in your list of what works and what doesn'
 - WiFi and Ethernet
 - Bluetooth
 - Personal Hotspots
-- WPA2 Enterprise Networks
+- WPA2 Enterprise
 - I/O Ports
 - FileVault (DO NOT TRY TO TEST, ALWAYS PUT THIS IN THE WARNS LIST)
 - Graphics Acceleration

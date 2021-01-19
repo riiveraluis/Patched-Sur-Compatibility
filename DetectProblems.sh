@@ -40,7 +40,7 @@ print
 print "Starting detections..."
 
 print "Checking for FileVault..."
-if [[ "$(fdesetup status)" = "FileVault is On." ]]
+if [[ "$(fdesetup status)" = "FileVault is Off." ]]
 then
     FILEVAULT="Fatal;FileVault is Enabled;FileVault prevents use of recovery mode, resulting in a always incorrect password when trying to unlock recovery. You must disable FileVault before continuing."
     FVHUMAN="Fatal: FileVault is Enabled. FileVault prevents use of recovery mode, resulting in a always incorrect password when trying to unlock recovery.You must disable FileVault before continuing."

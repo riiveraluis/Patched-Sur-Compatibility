@@ -87,13 +87,6 @@ case $MACMODEL in
         ;;
 esac
 
-# MacPro3,1 would show up twice, but that's not how switch works so I'm adding this here.
-if [[ "$MACMODEL" = "MacPro3,1" ]]
-then
-    ACCEL="Warning;Your Mac might not have Metal;Your Mac might have a GPU that is incompatible with metal, and won't have graphics acceleration. This means Big Sur will run extremely slow on your Mac, and will be barely usable."
-      ACHUMAN="Warning: Your Mac might not have Metal. Your Mac might have a GPU that is incompatible with metal, and won't have graphics acceleration. This means Big Sur will run extremely slow on your Mac, and will be barely usable."
-if
-
 print "Finallizing results..."
 
 print "The following problems were detected:"

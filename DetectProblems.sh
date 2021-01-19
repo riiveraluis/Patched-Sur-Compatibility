@@ -3,7 +3,7 @@
 #  DetectProblems.sh
 #  Patched Sur Compatbilty Resources
 #
-#  Created by Benjamin Sova on 11/1/20.
+#  Created by Benjamin Sova on 1/18/20.
 #
 #  This script is run by Patched Sur and
 #  is downloaded everytime the pre-install
@@ -56,7 +56,7 @@ fi
 print "Detecting Mac Model Specific Problems..."
 MACMODEL="$(sysctl -n hw.model)"
 
-MACMODEL="MacBookPro7,1"
+MACMODEL="MacPro3,1"
 
 print "(Mac Model: $MACMODEL)"
 

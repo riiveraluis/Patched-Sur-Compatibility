@@ -56,8 +56,6 @@ fi
 print "Detecting Mac Model Specific Problems..."
 MACMODEL="$(sysctl -n hw.model)"
 
-MACMODEL="MacPro3,1"
-
 print "(Mac Model: $MACMODEL)"
 
 case $MACMODEL in

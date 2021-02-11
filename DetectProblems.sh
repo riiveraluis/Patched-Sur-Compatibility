@@ -42,8 +42,14 @@ print "Starting detections..."
 print "Checking for FileVault..."
 if [[ "$(fdesetup status)" = "FileVault is On." ]]
 then
-    FILEVAULT="Fatal;FileVault is Enabled;FileVault prevents use of recovery mode, resulting in a always incorrect password when trying to unlock recovery. You must disable FileVault before continuing."
-    FVHUMAN="Fatal: FileVault is Enabled. FileVault prevents use of recovery mode, resulting in a always incorrect password when trying to unlock recovery.You must disable FileVault before continuing."
+    if sw_vers -productVersion | grep 10
+    then
+        FILEVAULT="Fatal;FileVault is Enabled;FileVault prevents use of recovery mode, resulting in a always incorrect password when trying to unlock recovery. You must disable FileVault before continuing."
+        FVHUMAN="Fatal: FileVault is Enabled. FileVault prevents use of recovery mode, resulting in a always incorrect password when trying to unlock recovery.You must disable FileVault before continuing."
+    else
+        FILEVAULT="Warning;FileVault is Enabled;FileVault prevents use of recovery mode, resulting in a always incorrect password when trying to unlock recovery. You must disable FileVault before continuing."
+        FVHUMAN="Warning: FileVault is Enabled. FileVault prevents use of recovery mode, resulting in a always incorrect password when trying to unlock recovery.You must disable FileVault before continuing."
+    fi
 fi
 
 print "Checking for dosdude1 patches..."

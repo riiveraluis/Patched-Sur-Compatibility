@@ -1,0 +1,18 @@
+{
+    "MacName": "MacBook Air (11-inch, Mid 2012)",
+    "Author": "@theshoehorn",
+    "Approved": ["@BenSova"],
+    "Details": "Most things work rigth after installation, but WiFi doesn't work until your run Patch Kexts in the post install app. Beyond that, it runs great, and there are no major problems.",
+    "Works": [
+        "WiFi and Bluetooth",
+        "I/O Ports",
+        "Graphics Acceleration",
+        "Sleep and Brightness"
+    ],
+    "Unknown": [],
+    "Warns": [
+        "FileVault",
+        "Personal Hotspots",
+        "WPA2 Enterprise"
+    ]
+}

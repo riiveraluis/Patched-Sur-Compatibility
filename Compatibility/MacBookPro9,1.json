@@ -1,0 +1,18 @@
+{
+    "MacName": "MacBook Pro (15-inch, Mid 2012)",
+    "Author": "@theshoehorn",
+    "Approved": ["@BenSova"],
+    "Details": "Performance is excellent, arguably better than Catalina. WiFi is execlent, just WPA2 Enterprise and Personal Hotspots do not work. Automatic graphics switching needs to be enabled by opening Patched Sur settings.",
+    "Works": [
+        "WiFi, Ethernet and Bluetooth",
+        "I/O Ports",
+        "Graphics Acceleration",
+        "Sleep and Brightness"
+    ],
+    "Unknown": [],
+    "Warns": [
+        "FileVault",
+        "Personal Hotspots",
+        "WPA2 Enterprise"
+    ]
+}

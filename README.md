@@ -53,7 +53,7 @@ If somebody already submitted your model, a good thing to do is just to verify t
 
 ## Works and Warns
 
-Here are details that you can include in your list of what works and what doesn't work. You do not have to include all of them, just the ones you can try. Please test these **after** (successfully) patching kexts, unless you have a Late 2013 iMac where things should work by default. Please also make sure to be on the latest version of Big Sur (11.1 at time of writing).
+Here are details that you can include in your list of what works and what doesn't work. You do not have to include all of them, just the ones you can try. Please test these **after** (successfully) patching kexts, unless you have a Late 2013 iMac where things should work by default. Please also make sure to be on the latest version of Big Sur (11.2.1 at time of writing).
 
 - WiFi and Ethernet
 - Bluetooth

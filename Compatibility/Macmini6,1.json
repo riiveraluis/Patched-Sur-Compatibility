@@ -1,0 +1,18 @@
+{
+	"MacName": "Mac mini (Late 2012)",
+	"Author": "@ajsap",
+      "Approved": ["@BenSova"],
+	"Details": "Works perfectly fine with KEXT patch, except FileVault is not available.",
+	"Works": [
+	    "Graphics Acceleration",
+	    "Sound",
+	    "I/O Ports",
+          "AirDrop"
+    ],
+    "Unknown": [],
+    "Warns": [
+	"FileVault",
+	"Personal Hotspots",
+	"WPA2 Enterprise"
+    ]
+}

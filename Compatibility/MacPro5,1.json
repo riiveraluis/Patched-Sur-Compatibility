@@ -1,0 +1,18 @@
+{
+    "MacName": "Mac Pro (Mid 2010)",
+    "Author": "@MS1959",
+    "Approved": ["@BenSova"],
+    "Details": "While Mac Pros should really use StarPlayr's Patcher, you can use this Mac with Patched Sur as long as you have a metal compatibile card. Other than that though, most thigns should work after patching the kexts.",
+    "Works": [
+        "WiFi and Bluetooth",
+        "I/O Ports",
+        "Sleep and Brightness"
+    ],
+    "Unknown": [],
+    "Warns": [
+        "FileVault",
+        "Personal Hotspots",
+        "Graphics Acceleration",
+        "WPA2 Enterprise"
+    ]
+}

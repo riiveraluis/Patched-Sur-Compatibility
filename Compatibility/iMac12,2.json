@@ -1,0 +1,20 @@
+{
+    "MacName": "iMac (27-inch, Mid 2011)",
+    "Author": "@Bicoid",
+    "Approved": ["@BenSova"],
+    "Details": "Mostly everything thing works after install and patching kexts, like the I/O, sleep, and WiFi. However, even after disabling animations, preformance won't be amazing due to the lack of metal graphics acceleration.",
+    "Works": [
+        "WiFi and Ethernet",
+        "Bluetooth",
+        "I/O Ports",
+        "Sleep and Brightness"
+    ],
+    "Unknown": [
+    ],
+    "Warns": [
+        "FileVault",
+        "Graphics Acceleration",
+        "WPA2 Enterprise",
+        "Personal Hotspots"
+    ]
+}

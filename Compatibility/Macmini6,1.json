@@ -1,8 +1,8 @@
 {
 	"MacName": "Mac mini (Late 2012)",
 	"Author": "@ajsap",
-      "Approved": ["@BenSova"],
-	"Details": "Works perfectly fine with KEXT patch, except FileVault is not available.",
+      "Approved": ["@BenSova", "@slick-randall71"],
+	"Details": "Performance is about the same as Catalina (sometimes better) and pretty much everything works after patching the kexts.",
 	"Works": [
 	    "Graphics Acceleration",
 	    "Sound",

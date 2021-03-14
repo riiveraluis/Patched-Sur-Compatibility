@@ -4,8 +4,7 @@
     "Approved": ["@BenSova"],
     "Details": "Everything works and performance is the same as Catalina. WiFi, USB, and Handoff worked without patching Kexts in the post install app, which would have produced errors. If you have a fusion drive, upgrade it to an SSD otherwise performance will be horrible.",
     "Works": [
-        "WiFi and Ethernet",
-        "Bluetooth",
+        "WiFi, Ethernet and Bluetooth",
         "Personal Hotspots",
         "I/O Ports",
         "Graphics Acceleration",

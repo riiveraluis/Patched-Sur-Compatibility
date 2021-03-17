@@ -1,0 +1,20 @@
+{
+    "MacName": "iMac(21.5-inch, Late 2012)",
+    "Author": "@riiveraLuis",
+    "Details": "Works like Apple has been making Big Sur for this Mac and just dropped support because is not retina.",
+    "Works": [
+        "WiFi and Ethernet after patching",
+        "Bluetooth out of the box",
+        "I/O Ports",
+        "Graphics Acceleration",
+        "Sleep and Brightness"
+    ],
+    "Unknown": [
+       "Future SIP configurations."
+    ],
+    "Warns": [
+        "WPA2 Enterprise - Can't confirm",
+        "FileVault",
+        "Another thing that doesn't work","Personal Hotspots in my testing is failing as macOS 11.2.3"
+    ]
+}

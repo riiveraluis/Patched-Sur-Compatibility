@@ -1,0 +1,19 @@
+{
+    "MacName": "iMac(21.5-inch, Late 2012)",
+    "Author": "@riiveraLuis",
+    "Approved": ["@BenSova"],
+    "Details": "Performance on the machine is comparable to the latest supported Catalina version if not better. Wi-Fi works after running the post install app and patching kext. Calling via Handoff, AirDrop and Apple services were tested working properly except Apple TV app content only audio working and video pitch black.",
+    "Works": [
+        "WiFi and Ethernet",
+        "Bluetooth",
+        "I/O Ports",
+        "Graphics Acceleration",
+        "Sleep and Brightness"
+    ],
+    "Unknown": [],
+    "Warns": [
+        "WPA2 Enterprise",
+        "FileVault",
+        "Personal Hotspots"
+    ]
+}
